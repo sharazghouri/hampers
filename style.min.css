@@ -1,0 +1,3 @@
+#et-top-navigation .et-cart-info{display:none}
+@media screen and (max-width:980px){#et-top-navigation .et-cart-info{display:block}
+}

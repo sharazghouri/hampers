@@ -1,0 +1,28 @@
+/*
+Theme Name:   Hampers
+Theme URI: solbox.dev
+Description:  hampers divi child theme.
+Author:       sharaz shahid
+Author URL:   https://www.linkedin.com/in/sharaz-shahid-b47a5b118/
+Template:     Divi
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  hampers
+*/
+
+/* Write here your own personal stylesheet */
+
+#et-top-navigation {
+	.et-cart-info {
+			display: none;
+	}
+}
+
+@media screen and (max-width: 980px) {
+	#et-top-navigation {
+			.et-cart-info {
+					display: block;
+			}
+	}
+}

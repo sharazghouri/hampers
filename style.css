@@ -1,0 +1,20 @@
+/*
+Theme Name:   Hampers
+Theme URI: solbox.dev
+Description:  hampers divi child theme.
+Author:       sharaz shahid
+Author URL:   https://www.linkedin.com/in/sharaz-shahid-b47a5b118/
+Template:     Divi
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  hampers
+*/
+/* Write here your own personal stylesheet */
+#et-top-navigation .et-cart-info { display: none; }
+
+@media screen and (max-width: 980px) { #et-top-navigation .et-cart-info { display: block; } }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGUuY3NzIiwic291cmNlcyI6WyJzdHlsZS5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7Ozs7Ozs7OztFQVdFO0FBRUYsNkNBQTZDO0FBRTdDLEFBQ0Msa0JBRGlCLENBQ2pCLGFBQWEsQ0FBQyxFQUNaLE9BQU8sRUFBRSxJQUFJLEdBQ2Q7O0FBR0YsTUFBTSxDQUFDLE1BQU0sTUFBTSxTQUFTLEVBQUUsS0FBSyxJQUNsQyxBQUNFLGtCQURnQixDQUNoQixhQUFhLENBQUMsRUFDWixPQUFPLEVBQUUsS0FBSyxHQUNmIn0= */
+
+/*# sourceMappingURL=style.css.map */
